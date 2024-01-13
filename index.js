@@ -42,11 +42,3 @@ async function invokeAction({ action, id, name, email, phone }) {
   }
 }
 invokeAction(options);
-// invokeAction({ action: "get", id: "AeHIrLTr6JkxGE6SN-0Rw" });
-// invokeAction({
-//   action: "add",
-//   name: "Nata",
-//   email: "vhjgjf@gmail.com",
-//   phone: "343527548765",
-// });
-// invokeAction({ action: "remove", id: "9KVfAJkx67dgDkXI-ZLZi" });
